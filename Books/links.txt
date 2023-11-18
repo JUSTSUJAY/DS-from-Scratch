@@ -1,0 +1,2 @@
+https://sdsclub.com/learning-paths/
+https://scikit-learn.org/stable/modules/classes.html#regression-metrics
